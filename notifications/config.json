@@ -1,0 +1,19 @@
+{
+  "base": {
+    "logo": "",
+    "project": "VisaHQ",
+    "environment": "LocalPC",
+    "comment": "I have nothing to offer but blood, toil, tears and sweat.",
+    "reportLink": "https://github.com/LibertarianQA/VisaHQ-QA-Tests",
+    "language": "en",
+    "allureFolder": "build/reports/allure-report/allureReport/",
+    "enableChart": true,
+    "enableSuitesPublishing": false
+  },
+  "telegram": {
+    "token": "YOUR_tokenID",
+    "chat": "YOUR_chatID",
+    "replyTo": "",
+    "templatePath": "/templates/telegram.ftl"
+  }
+}
